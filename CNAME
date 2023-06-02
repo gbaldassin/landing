@@ -1,0 +1,7 @@
+//CNAME
+//HostName      AliasName
+CNAME   admin   admin.redirect.aruba.it.
+CNAME   autoconfig      autodiscover.aruba.it.
+CNAME   ftp     www.gbaldassin.co.uk
+CNAME   imap    imaps.aruba.it.
+CNAME   www     gbaldassin.co.uk
